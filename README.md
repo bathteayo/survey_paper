@@ -2,6 +2,7 @@
 
 ## PDF to MD 
 - 対象論文のPDFを[URL](https://colab.research.google.com/drive/1eUL_tIThqcDohTNuJ5TdDFpN3poossuw?usp=sharing#scrollTo=wBSUpZs12Bn6)からmd形式に変換する
+  - 上部のランタイム->ランタイムのタイプを変更でハードウェア アクセラレータがGPU(T4 GPU)になっていることを確認．なっていない場合は変更．
   - 左側のファイルマークからファイルを開き，対象PDFをinput.pdfと名前を変更して配置(sample_dataと同じ階層)
   - 依存関係のインストールを実行
   - PDFをmmdフォーマットに変換を実行
