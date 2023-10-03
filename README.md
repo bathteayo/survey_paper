@@ -17,15 +17,15 @@
 survey_paper  
 ├── 発表年_学会名(短縮)_論文名  
 │   ├── 元論文.pdf  
-│   └── 発表年_学会名(短縮)_論文名.md  
+│   ├── 発表年_学会名(短縮)_論文名.pdf
+│   └── link.md (Notionへのリンクを記述)
 ├── README.md  
 └── survey_template.md
 ```  
 - `PDF to MD`に従いPDFをマークダウン形式に自動変換する．
 - `survey_template.md`に従って論文をまとめる．
-  - 適宜 `git commit, git push` を行うこと  
-  - commitメッセージはサマリや分類など，`survey_template.md`のどこが対象なのかを分かるようにする．
 - まとめ終わったらPRを出す
+　- NotionをPDF化したものを送る
 - kobayuがチェックを行い修正があれば修正し，再度PRを出す
 - 修正がなければmainブランチにkobayuがマージ
 
