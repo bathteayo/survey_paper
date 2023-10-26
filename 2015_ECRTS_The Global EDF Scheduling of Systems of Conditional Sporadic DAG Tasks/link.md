@@ -1,0 +1,1 @@
+[The Global EDF Scheduling of Systems of Conditional Sporadic DAG Tasks](https://azlb-tbtb.notion.site/The-Global-EDF-Scheduling-of-Systems-of-Conditional-Sporadic-DAG-Tasks-55e071694e0549f6a4ab219ba9698d39 "Notionへのリンク")
